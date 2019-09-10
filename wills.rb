@@ -5,3 +5,7 @@ end
 def myConflict
     puts "my conflict is more dope"
 end
+
+def princetons_method
+    puts "Princeton says you forgot to put an end"
+end
